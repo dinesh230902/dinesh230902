@@ -1,4 +1,9 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Dinesh Kumar</h1>
+- 🌱 I’m currently learning **WordPress**
+
+- 📫 How to reach me **dineshbindal1155@gmail.com**
+- 🌱  My Personal Website **https://dinesh123207.github.io/**
+- 🌱  My Wordpress Website **https://dinesh368.wordpress.com**
 
 <!--
 **dinesh230902/dinesh230902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
