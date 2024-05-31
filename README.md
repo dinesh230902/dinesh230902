@@ -12,6 +12,7 @@ I am a Computer Science Student at Dronacharya Group of Institutions. I enjoy pr
     
     
 ### 📫 How to reach me: 
+- My another github account **https://github.com/Dinesh123207**
 - 🌱  My Personal Website **https://dinesh123207.github.io/**
 - 🌱  My Wordpress Website **https://dinesh368.wordpress.com**
 - LinkedIn: https://www.linkedin.com/in/dinesh-kumar-266354226/
